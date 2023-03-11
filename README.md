@@ -1,3 +1,3 @@
 # KSEpack
 
-It`s my first expirience for creating site
+It`s my first experience for creating site
