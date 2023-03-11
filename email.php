@@ -1,7 +1,7 @@
 
 <meta charset="utf-8"> 
 <?php
-$urok="Урок 22";
+$urok="test";
 error_reporting( E_ERROR );   //Отключение предупреждений и нотайсов (warning и notice) на сайте
 // создание переменных из полей формы		
 if (isset($_POST['name1']))			{$name1			= $_POST['name1'];		if ($name1 == '')	{unset($name1);}}
